@@ -1,8 +1,3 @@
-// Trabalho de:
-// Pedro Henrique da Silva Martins Benevides - Matricula: 202502498616
-// Enrique Augusto Angelo Pires e Silva - Matricula: 202503198861
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
